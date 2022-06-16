@@ -1,14 +1,18 @@
 { 
  "name":"CFWheels HTMX Plugin", 
- "version":"1.0.1", 
+ "version":"1.0.2", 
  "author":"Peter Amiri",
- "location":"bpamiri/cfwheels-htmx#v1.0.1",
+ "location":"bpamiri/cfwheels-htmx#v1.0.2",
  "directory":"/plugins/",
  "createPackageDirectory":true,
  "packageDirectory":"htmx",
  "slug":"cfwheels-htmx",
  "type":"cfwheels-plugins",
  "homepage":"https://github.com/bpamiri/cfwheels-htmx",
+ "Bugs" : "https://github.com/bpamiri/cfwheels-htmx/issues",
+ "Repository" : { 
+    "type" : "git", "URL" : "https://github.com/bpamiri/cfwheels-htmx"
+  },
  "shortDescription":"HTMX Plugin for CFWheels",
  "keywords":"htmx plugin cfwheels",
  "private":false,
